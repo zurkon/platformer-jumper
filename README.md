@@ -4,6 +4,7 @@ A Unity project recreating platformer movements! :joystick:
 # Demo
 ![Unityplatformer](https://user-images.githubusercontent.com/46505446/76984952-47a2ac00-691e-11ea-9d48-bd8f4f1c9c86.gif)
 
+<<<<<<< HEAD
 # Description
 This is a experimental project to recreate some commons platform game's movement such wall slide and wall jump.
 
@@ -26,3 +27,5 @@ This project is licensed under the MIT License.
 # Acknowledgments
 * Awesome pixelart from [Pixel Frog](https://twitter.com/hi_PixelFrog)
 * Awesome Unity projects and inspiration from [Andre_mc](https://twitter.com/andre_mc) AKA [MixandJam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA)
+=======
+>>>>>>> 9085b04ae5ff2eccb2da1277407d22370c0dd7d0
