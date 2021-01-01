@@ -6,7 +6,7 @@ A Unity project recreating platformer movements! :joystick:
 
 <img src="https://user-images.githubusercontent.com/46505446/76984952-47a2ac00-691e-11ea-9d48-bd8f4f1c9c86.gif" width="600" />
 
-<div/>
+</div>
 
 # Description
 This is a experimental project to recreate some commons platform game's movement such wall slide and wall jump.
