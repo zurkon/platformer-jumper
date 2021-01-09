@@ -4,7 +4,7 @@
 
 A Unity project recreating platformer movements! :joystick: 
 
-<img src="https://user-images.githubusercontent.com/46505446/76984952-47a2ac00-691e-11ea-9d48-bd8f4f1c9c86.gif" width="600" />
+<img src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/gifs/Unityplatformer.gif" width="600" />
 
 </div>
 
